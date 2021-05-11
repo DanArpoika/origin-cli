@@ -26,7 +26,7 @@
     "clui": "^0.3.6",
     "colors": "^1.2.1",
     "figlet": "^1.2.4",
-    "lodash": "^4.17.5",
+    "lodash": "^4.17.21",
     "object-path": "^0.11.4",
     "prompts": "^2.3.0",
     "shelljs": "^0.8.3"
